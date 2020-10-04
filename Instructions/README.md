@@ -24,13 +24,13 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Create a script that will loop through all the stocks for one year and output the following information.
 
-  * The ticker symbol.
+  * The ticker symbol.    DONE
 
-  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.    DONE
 
-  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.  WORKING ON
 
-  * The total stock volume of the stock.
+  * The total stock volume of the stock. 
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
